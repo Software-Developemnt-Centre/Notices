@@ -1,28 +1,19 @@
-Software Development Centre (SDC) 
-Internship Opportunity: Full time | Part time
-Learn, earn with coding, without coding
-About SDC
-Software Development Centre (SDC) undertakes development of real industrial projects, software as a product and software as a service, and gives exposure of real software development to the students. SDC announces the following training opportunities.
-Internship in the area of Industry 4.0 / Software Development
-Software Development Centre is offering internship opportunities for students of any discipline (in general) and specifically for:
+NOTICE
 
-Any engineering discipline
-BCA / MCA
-BBA / MBA
-for the real projects undertaken by SDC in the area of:
-Industry 4.0 / Industrial automation / Human machine interface (HMI) / PLC programming  
-Enterprise Resources Planning (ERP) Software Development and Deployment.
-Computer Assisted Teaching / Learning
-Software development and application to specific domains of engineering fields
-This Internship will be beneficial for the students who wish to learn development and use of computers in their respective field. Any student/professional from any branch of engineering / arts / medical / law /  management can join.  Immediate joining.
-Registration Details
-Interested students can apply through the following form: 
-https://forms.gle/P648YV2MxMqCZa676  by 11:30 am of 27th January 2023. 
-Internship is available in following options:
-Full Time: Six Month Industrial Training (All Branches)
-Major Project (All Branches)
-Minor Project (All Branches)
-Side Project (Not the part of their academic requirement)
-Note: There is no Registration Fee. Students will be shortlisted based on their profile and interview.
+Software Development Centre is offering a six-month industrial training/internship program for students from any discipline who are interested in gaining practical experience in software development.
 
-Centre Head
+During the training program, you will have the opportunity to work with experienced software developers and learn about different aspects of software development including software design, coding, testing, and deployment. This program is also beneficial for those students who are interested in learning about the latest technologies and tools for developing applications without the need for extensive coding skills. You will also have the chance to work on real-world projects undertaken by SDC in the area of:
+1.	Industry 4.0 / Industrial automation / Human machine interface (HMI) / PLC programming  
+2.	Enterprise Resources Planning (ERP) Software Development and Deployment.
+3.	Computer Assisted Teaching / Learning
+4.	Software development and application to specific domains of engineering fields
+
+To be eligible for the program, you must be a current student of Guru Nanak Dev Engineering College, Ludhiana or any other educational institution. You must also have a basic understanding of programming concepts and be willing to commit to the full six-month training program.
+
+The training program will be held at our Software Development Centre, which is equipped with state-of-the-art facilities and the latest technologies. We will provide you with all the necessary resources and support to ensure that you have a successful learning experience.
+Interested students can apply through the following registration form by  11:30 AM of 20th  May, 2023:
+https://forms.gle/jAt3dmcHXNkd1cZg7 
+
+We will review your application and contact you if you are selected for an interview. We look forward to hearing from you and helping you take the first step towards a successful career in software development.
+
+Head SDC
